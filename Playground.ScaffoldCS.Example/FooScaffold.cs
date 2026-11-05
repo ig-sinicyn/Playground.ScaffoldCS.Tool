@@ -6,9 +6,9 @@ public class FooScaffold : IScaffolding<FooScaffold.Args>
 {
     public class Args
     {
-        public required int Bar { get; set; }
+        public  int Bar { get; set; }
 
-        public required bool Baz { get; set; }
+        public  bool Baz { get; set; }
     }
 
     public void Run(IScaffoldContext context, Args args)
