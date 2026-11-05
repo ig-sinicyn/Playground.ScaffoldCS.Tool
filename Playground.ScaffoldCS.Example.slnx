@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Playground.ScaffoldCS.Example/Playground.ScaffoldCS.Example.csproj" />
+  <Project Path="Playground.ScaffoldCS.Library/Playground.ScaffoldCS.Library.csproj" />
+</Solution>
